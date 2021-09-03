@@ -9,8 +9,6 @@
 # by @matth_walter
 
 
-import sys
-
 KEY = b"JoanCheungOscar\x00"
 
 
