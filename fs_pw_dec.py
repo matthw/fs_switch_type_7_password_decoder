@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-# decrypt fs.com type 7 passwords
+# decrypt fs.com type 7 passwords.
+# should work on S3700, S3400, S3260, S3150 (tested on S3700)
 #
 # ex:  
-# % ./fs_pwd.py 091e333e434451542d4024162b51535c5945
+# % ./fs_pw_dec.py 091e333e434451542d4024162b51535c5945
 # My_super_P4ssword
 #
-# test on a FS-3700 switch
 # by @matth_walter
 
 

@@ -1,4 +1,4 @@
-# FS Switch type 7 password decoder
+# FS Switch type 7 password decoder (S3700, S3400, S3260, S3150)
 
 this script decodes type 7 passwords on [FS](https://wwww.fs.com/) switch
 tested on a [S3700](https://www.fs.com/products/84912.html) model
