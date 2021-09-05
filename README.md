@@ -1,6 +1,7 @@
-# FS Switch type 7 password decoder (S3700, S3400, S3260, S3150)
+# Decrypt and crypt FS Switch type 7 passwords (S3700, S3400, S3260, S3150)
 
-this script decodes type 7 passwords on [FS](https://wwww.fs.com/) switch
+this script encrypt and decrypt type 7 passwords on [FS](https://wwww.fs.com/) switches.
+
 tested on a [S3700](https://www.fs.com/products/84912.html) model
 
 should also work the following series:
@@ -10,7 +11,12 @@ should also work the following series:
 
 example:
 ```
-% ./fs_pw_dec.py 091e333e434451542d4024162b51535c5945
-My_super_P4ssword
+decrypt:
+   ./fs_type_7.py -d 091e333e434451542d4024162b51535c5945
+   My_super_P4ssword
+
+encrypt:
+   ./fs_type_7.py -e My_super_P4ssword -s 9
+   091e333e434451542d4024162b51535c5945
 ```
 
