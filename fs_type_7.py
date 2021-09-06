@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 #
-# encrypt/decrypt fs.com type 7 passwords.
-# should work on S3700, S3400, S3260, S3150 (tested on S3700)
+# encrypt/decrypt bdcom.cn/fs.com type 7 passwords.
+# should work on FS S3700, S3400, S3260, S3150 (tested on S3700)
+# and most bdcom ones ?
 #
 # ex:  
 # decrypt:

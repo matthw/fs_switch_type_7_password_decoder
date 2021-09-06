@@ -1,13 +1,20 @@
-# Decrypt and crypt FS Switch type 7 passwords (S3700, S3400, S3260, S3150)
+# Decrypt and crypt BDCOM/FS Switch type 7 passwords 
+# S3700, S3400, S3260, S3150
 
-this script encrypt and decrypt type 7 passwords on [FS](https://wwww.fs.com/) switches.
+this script encrypt and decrypt type 7 passwords on [FS](https://wwww.fs.com/) switches
+as well as on [BDCOM](https://www.bdcom.cn) switches.
 
-tested on a [S3700](https://www.fs.com/products/84912.html) model
-
-should also work the following series:
+should work the following FS series:
 - S3150
 - S3260
 - S3400
+- S3700
+
+and probably most BDCOM ones ?
+
+
+
+
 
 example:
 ```
