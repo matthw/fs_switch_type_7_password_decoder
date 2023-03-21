@@ -27,3 +27,4 @@ encrypt:
    091e333e434451542d4024162b51535c5945
 ```
 
+read more: [here](https://matth.dmz42.org/posts/2022/reversing-firmwares-from-fs-and-bdcom-switches/)
